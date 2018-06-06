@@ -1,0 +1,16 @@
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\App.g.cs
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator_MarkupCompile.cache
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator_MarkupCompile.lref
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\MainWindow.baml
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.g.resources
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\vonBrax\source\repos\TaxCalculator\TaxCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
